@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <string name="textOrganizeConta">Organize suas contas\nde onde estiver</string>
+    <string name="textSimples">Simples, facil de usar e gratuito</string>
+    <string name="textSaibaDinheir">Saiba para onde esta indo seu dinheiro</string>
+    <string name="textCategorizando">Categorizando seus lançamentos e vendo o\n destino de cada centavo</string>
+    <string name="textNuncaEsqueca">Nunca mais esqueça de\n pagar suas contas</string>
+    <string name="textAlerta">Recebas alertas quando quiser</string>
+    <string name="textTudoOrganizado">Tudo organizado, no\n celular ou computador</string>
+    <string name="textUseSmartphone">Use no seu smartphone e acessando o\n Organizze pelo site</string>
+    <string name="textConta">Crie uma conta grátis</string>
+    <string name="textQtdUsuarios">Junte-se a mais de meio milhão\n de pessoas e comece já</string>
+    <string name="textBtnCadastro">Cadastre-se</string>
+    <string name="textUsuario">Já tenho cadastro</string>
+    <string name="txtBtnCadastrar">Cadastrar</string>
+    <string name="textTermos">Termos de uso</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textDinheiro">R$00.00</string>
+    <string name="textData">ex: 21/09/2000</string>
+    <string name="textSalario">ex: Salário</string>
+    <string name="textSalarioMensal">ex: Salário Mensal</string>
+    <string name="textPrincipal">Carregando...</string>
+    <string name="textSaldo">Saldo Geral</string>
+</resources>
